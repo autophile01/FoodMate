@@ -1,4 +1,4 @@
-# FoodMate 
+# FoodMate - A food ordering platform
 
 FoodMate is a full-stack food ordering application with separate customer and admin interfaces. It provides authentication, food catalogue management, cart operations, order management, local image uploads, and Razorpay test-payment integration.
 
